@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#BDBDBD</color>
+    <color name="white_gray">#fafafc</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="fade_blue">#dee8df</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#2F80ED</color>
+    <color name="yellow">#FF9D00</color>
+    <color name="dash_item_color">#E7F2FB</color>
+    <color name="white">#FFFF</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="grayDark">#555555</color>
+    <color name="grayDark800">#3F3F3F</color>
+    <color name="nion">#DCE775</color>
+    <color name="parrot">#66FF99</color>
+    <color name="redbrown">#feebe5</color>
+</resources>

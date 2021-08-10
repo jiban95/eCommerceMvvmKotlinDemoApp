@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/cart"
+        android:title="cart"
+        app:actionLayout="@layout/badge_count"
+        app:showAsAction="always"/>
+</menu>
